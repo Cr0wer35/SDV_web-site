@@ -15,5 +15,23 @@ header {
 }
 
 .titre {
-	display: flex;align-items: center;
+	display: flex;
+	align-items: center;
+}
+
+/**
+* Ajout Style Page Contact
+*/
+.contact {
+    background-color: beige;
+    border: 1px solid black;
+}
+.section-title h2 {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.section-title p {
+    font-size: 1.2rem;
+    font-weight: bold;
 }
