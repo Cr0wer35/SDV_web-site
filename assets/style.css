@@ -1,0 +1,10 @@
+footer {
+    background-color: darkgray;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    margin: 0;
+    font-family: "Comic sans ms";
+}
